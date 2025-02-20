@@ -98,7 +98,8 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 7c363aee809efaf4ea880ddaa9f1f6d6, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 7c363aee809efaf4ea880ddaa9f1f6d6,
+    type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -312,7 +313,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.1192203
+  orthographic size: 6.71
   m_Depth: 1
   m_CullingMask:
     serializedVersion: 2
